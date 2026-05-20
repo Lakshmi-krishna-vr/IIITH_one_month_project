@@ -1,0 +1,28 @@
+# Virtual environment
+emotion_env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Results
+Results/
+
+# Trained models
+*.pth
+*.pt
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
